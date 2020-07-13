@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="empty_news">No News Found</string>
+    <string name="no_network">No Internet Connecting</string>
+    <string name="settings_title">News Settings</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_page_size_label">News Numbers</string>
+    <string name="settings_page_size_key" translatable="false">page-size</string>
+    <string name="settings_page_size_default" translatable="false">10</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_relevance_value</string>
+
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <string name="settings_section_label">Section</string>
+    <string name="settings_section_key" translatable="false">tag</string>
+    <string name="settings_section_default" translatable="false">@string/settings_section_politics_value</string>
+
+    <string name="settings_section_politics_label">Politics</string>
+    <string name="settings_section_politics_value">politics/politics</string>
+
+    <string name="settings_section_business_label">Business</string>
+    <string name="settings_section_business_value">business/business</string>
+
+    <string name="settings_section_society_label">Society</string>
+    <string name="settings_section_society_value">society/society</string>
+
+    <string name="settings_section_world_label">World News</string>
+    <string name="settings_section_world_value">world/world</string>
+
+    <string name="settings_section_education_label">Education</string>
+    <string name="settings_section_education_value">education/education</string>
+</resources>
